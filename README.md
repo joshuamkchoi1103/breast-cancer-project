@@ -22,5 +22,10 @@ By comparing Bayesian (Maximum a Posteriori) and Frequentist (Maximum Likelihood
 ## 📊 Methodology & Results
 1. **Exploratory Data Analysis (EDA):** Identified highly correlated features (`concave points`, `radius error`) using correlation heatmaps.
 2. **Model Training:** Implemented BNNs and Bayesian Logistic Regression.
-3. **Evaluation:** Mapped posterior distributions of model weights to determine feature importance and clinical confidence intervals. 
-*(Note: Add 1-2 images of your posterior distribution graphs or correlation heatmaps here to make the README visually striking).*
+3. **Evaluation:** Mapped posterior distributions of model weights to determine feature importance and clinical confidence intervals.
+
+### Exploratory Data Analysis
+![Feature Correlation Heatmap](heatmap.png)
+
+### Model Performance Comparison
+![Bayesian vs Frequentist Performance](comp.png)
