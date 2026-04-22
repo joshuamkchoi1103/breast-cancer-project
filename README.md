@@ -25,7 +25,7 @@ By comparing Bayesian (Maximum a Posteriori) and Frequentist (Maximum Likelihood
 3. **Evaluation:** Mapped posterior distributions of model weights to determine feature importance and clinical confidence intervals.
 
 ### Exploratory Data Analysis
-![Feature Correlation Heatmap](heatmap.png)
+![Feature Correlation Heatmap](images/heatmap.png)
 
 ### Model Performance Comparison
-![Bayesian vs Frequentist Performance](comp.png)
+![Bayesian vs Frequentist Performance](images/comp.png)
